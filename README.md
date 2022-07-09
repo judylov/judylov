@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judylov
 - 👀 I’m interested in learning web development...
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on how to acquire the knowledge
 - 📫 How to reach me
 You can massage me if you want to reach me 
 
